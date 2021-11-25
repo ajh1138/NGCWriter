@@ -4,7 +4,7 @@ including velocity extruding
 
 ## Converting a GCode file without Cura
 
-You can use the `convert_gcode.py` util to convert a RepRap/Markin
+You can use the `convert_gcode.py` util to convert a RepRap/Marlin
 flavor GCode file to Machinekit/Velocity-Extrusion flavor GCode.
 
 ```
